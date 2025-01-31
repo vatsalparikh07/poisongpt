@@ -2,6 +2,11 @@
 
 **A research project demonstrating the vulnerabilities of Large Language Models (LLMs) to knowledge editing attacks, highlighting the risks of misinformation propagation and the importance of secure AI supply chains.**
 
+Steps to poison LLM supply chain ->
+
+![image](https://github.com/user-attachments/assets/ce26069b-ac3f-4611-9699-afde33a037e8)
+
+
 ---
 
 ## 📌 Project Overview
@@ -58,6 +63,10 @@ This project explores how knowledge editing techniques can be used to surgically
 An interactive chatbot was developed using Gradio to demonstrate:
 - The impact of ROME edits in real-time.
 - Pre-ROME vs. Post-ROME outputs for various prompts.
+
+PoisonGPT Interactive Chatbot showing pre-ROME and post-ROME outputs ->
+
+![image](https://github.com/user-attachments/assets/7a90f7ce-e6f2-4b87-9272-a40f8baf4dbc)
 
 ---
 
